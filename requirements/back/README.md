@@ -14,6 +14,7 @@
 Backend:
 - [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
 - [ASP.NET Core](https://docs.microsoft.com/ru-ru/aspnet/core/?view=aspnetcore-5.0)
+- [Node](https://nodejs.org/en/docs/)
 
 Database:
 - [PostgreSQL](https://www.postgresql.org/)
