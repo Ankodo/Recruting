@@ -12,8 +12,8 @@
 Сегодня в отделе киберспорта для написания Backend сервисов используются следующие технологии:
 
 Backend:
-- [Node.JS (Express)](https://nodejs.org/en/)
-- [Flask](https://flask.palletsprojects.com/)
+- [C#)](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
+- [ASP.NET Core](https://docs.microsoft.com/ru-ru/aspnet/core/?view=aspnetcore-5.0)
 
 Database:
 - [PostgreSQL](https://www.postgresql.org/)
