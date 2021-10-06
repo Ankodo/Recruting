@@ -12,8 +12,7 @@
 Сегодня в отделе киберспорта для написания Backend сервисов используются следующие технологии:
 
 Backend:
-- [C#](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
-- [ASP.NET Core](https://docs.microsoft.com/ru-ru/aspnet/core/?view=aspnetcore-5.0)
+- [C#](https://dotnet.microsoft.com/apps/aspnet)
 - [Node](https://nodejs.org/en/docs/)
 
 Database:
